@@ -9,7 +9,7 @@ Function  - 2
 If we push or pull the robot then it also balances itself.
 
 
-Components Required
+<b>Components Required<b/>
 
 Arduino UNO <br>
 L298N Motor Driver Module   <br>
