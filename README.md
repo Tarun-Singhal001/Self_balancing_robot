@@ -11,14 +11,14 @@ If we push or pull the robot then it also balances itself.
 
 Components Required
 
-Arduino UNO
-L298N Motor Driver Module
-MPU6050
-Geared DC motors
-A pair of Wheels
-9v li-ion Battery
-3d Printed Battery
-Connecting Wires
+Arduino UNO <br>
+L298N Motor Driver Module   <br>
+MPU6050     <br>
+Geared DC motors   <br>
+A pair of Wheels    <br>
+9v li-ion Battery    <br>
+3d Printed Battery   <br>
+Connecting Wires     <br>
 
 
 
