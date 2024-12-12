@@ -17,7 +17,7 @@ MPU6050     <br>
 Geared DC motors   <br>
 A pair of Wheels    <br>
 9v li-ion Battery    <br>
-3d Printed Battery   <br>
+3d Printed Body   <br>
 Connecting Wires     <br>
 
 
